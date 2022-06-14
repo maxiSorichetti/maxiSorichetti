@@ -11,7 +11,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
-- 🌱 Actualmente estoy terminando el bootcamp de Soy Henry como desarrollador web FullStack
+- 🌱 Graduado de Henry como desarrollador web FullStack
   
 - 💬 Quiero también estudiar inglés y aprender React Native más en profundidad en el corto plazo
   
