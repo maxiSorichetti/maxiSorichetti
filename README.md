@@ -24,7 +24,11 @@
  capacidad de anticipar posibles
  obstáculos. Con conocimientos en
  metodologías ágiles SCRUM.
-  
+    
+- ⚡ Curiosidades: Soy "pescetariano" hace unos años, osea que consumo pescados y vegetales en mi dieta, me gusta jugar al fútbol, y mejorar mis hábitos cotidianamente.
+- 📫 Comuníquese conmigo a maximilianosorichetti@gmail.com
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 - 💬  HABILIDADES TÉCNICAS
  Desarrollo de aplicaciones web
  con Javascript y Typescript
@@ -39,9 +43,4 @@ Manejo de herramientas de
  Experiencia en desarrollo de API
  REST y manejo de JSON web
  tokens
-  
-- ⚡ Curiosidades: Soy "pescetariano" hace unos años, osea que consumo pescados y vegetales en mi dieta, me gusta jugar al fútbol, y mejorar mis hábitos cotidianamente.
-- 📫 Comuníquese conmigo a maximilianosorichetti@gmail.com
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
